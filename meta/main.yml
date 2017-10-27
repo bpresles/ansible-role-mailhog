@@ -3,8 +3,8 @@ dependencies:
   - geerlingguy.daemonize
 
 galaxy_info:
-  author: geerlingguy
-  description: "MailHog for Linux"
+  author: bpresles
+  description: "MailHog for Docker"
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.8
